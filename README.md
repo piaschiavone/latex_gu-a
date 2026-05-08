@@ -1,2 +1,2 @@
-# latex_gu-a
+# latex_guia
 Cómo usar latex
